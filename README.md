@@ -1,2 +1,2 @@
-# bkube
-build kube image
+# builddocker
+build docker image
